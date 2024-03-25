@@ -33,4 +33,7 @@ const product3 = new product("Овощи",10)
 const product4 = new product("Мясо",50) 
 
 product4.myMethod("Мясо",)
-product4.myMethod2("Мясо",45)
+product4.myMethod2("Мясо",45) 
+
+
+
